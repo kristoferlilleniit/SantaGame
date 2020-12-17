@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.exe
+C:\Users\Admin\source\repos\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.deps.json
+C:\Users\Admin\source\repos\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.runtimeconfig.json
+C:\Users\Admin\source\repos\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.dll
+C:\Users\Admin\source\repos\SantaGame\SantaGame\bin\Debug\netcoreapp3.1\SantaGame.pdb
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.Form1.resources
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.Properties.Resources.resources
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.dll
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.pdb
+C:\Users\Admin\source\repos\SantaGame\SantaGame\obj\Debug\netcoreapp3.1\SantaGame.genruntimeconfig.cache
